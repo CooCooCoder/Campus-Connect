@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+*/node_modules/
+
+# Environment files
+.env
+*.env
+!.env.example
+!*/.env.example
+
+# Build directories
+dist/
+build/
+*/dist/
+*/build/
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Final ZIP (excluded from git)
+*.zip
