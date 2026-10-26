@@ -38,7 +38,7 @@ function NotFound() {
 export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
           <Navbar />
           <main style={{ flex: 1 }}>

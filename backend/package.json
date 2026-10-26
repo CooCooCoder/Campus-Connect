@@ -24,6 +24,7 @@
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^6.4.1",
+    "archiver": "^8.0.0",
     "cors": "^2.8.5",
     "docx": "^9.14.0",
     "dotenv": "^16.4.7",

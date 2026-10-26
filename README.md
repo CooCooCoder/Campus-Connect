@@ -3,6 +3,8 @@
 **Author**: Shivamsh Anil Menon  
 **Academic Microproject**: Alliance University — Department of Computer Science & Engineering  
 **Academic Year**: 2025–2026  
+**Repository**: [https://github.com/CooCooCoder/Campus-Connect](https://github.com/CooCooCoder/Campus-Connect)  
+**Live Demo**: [https://coocoocoder.github.io/Campus-Connect/](https://coocoocoder.github.io/Campus-Connect/)  
 **Subjects Involved**:
 1. Full Stack Development
 2. Backend Development
