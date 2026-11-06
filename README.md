@@ -234,4 +234,4 @@ Total Tests: 15 | Passed: 15 | Failed: 0 | Execution Time: 730 ms
 ---
 
 ## 9. Academic Integrity Notice
-Developed by **Shivamsh Anil Menon** as an academic microproject. Official faculty signatures and registration numbers are represented with editable placeholders `[Student Registration Number]` and `[Faculty Guide Name]` for official institutional evaluation.
+Developed by **Shivamsh Anil Menon** as an academic microproject.
